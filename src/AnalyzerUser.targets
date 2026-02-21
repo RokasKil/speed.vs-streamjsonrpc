@@ -15,5 +15,5 @@
       <Analyzer Include="%(AnalyzerAssembly.Identity)" />
     </ItemGroup>
   </Target>
-  <Import Project="$(RepoRootPath)src\StreamJsonRpc.Analyzers\buildTransitive\StreamJsonRpc.targets"/>
+  <Import Project="$(RepoRootPath)src\StreamJsonRpc.Analyzers\buildTransitive\Speed.StreamJsonRpc.targets"/>
 </Project>

@@ -1,13 +1,10 @@
 {
   "$schema": "https://raw.githubusercontent.com/dotnet/Nerdbank.GitVersioning/master/src/NerdBank.GitVersioning/version.schema.json",
-  "version": "2.24",
+  "version": "2.24.84-nowpf",
   "publicReleaseRefSpec": [
     "^refs/heads/main$",
     "^refs/heads/v\\d+(?:.\\d+)?$"
   ],
-  "nugetPackageVersion": {
-    "semVer": 2
-  },
   "cloudBuild": {
     "setVersionVariables": false
   }
